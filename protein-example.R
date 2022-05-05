@@ -1,7 +1,7 @@
 rm(list=ls())
 set.seed(135)
-setwd("~/Desktop/Tanya/")
-load("data.RData")
+
+load("data_protein.RData")
 library(dplyr)
 library(tidyr)
 library(mvtnorm)

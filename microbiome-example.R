@@ -1,5 +1,5 @@
 rm(list=ls())
-setwd("~/Desktop/Tanya/")
+
 library(DirichletReg)
 library(invgamma)
 library(tidyr)
